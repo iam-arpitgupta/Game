@@ -14,9 +14,3 @@ make sure you are in the philoagents-api dir before running any code
 if says that src module not found 
 do >   uv pip install -e.
 
-
-
-philoagents
-philoagents123 -> password 
-python -m pip install "pymongo[srv]"
-mongodb+srv://philoagents:philoagents123@cluster1.gjwbbon.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
