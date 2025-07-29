@@ -1,0 +1,22 @@
+Took me 10 hrs to resolve 
+i was getting this constant error of the uv env that i am not using the correct 
+dir even after i have been in the right dir and have done every imoprt right 
+i was still getting the import error ,
+so make sure you use a global env [global python version]in your env and make just make a env there or 
+install all the lib using the uv in there ,you can still see the error from the 
+pylance but make a main.py and then test all the import lib out by running some small 
+basic codes 
+
+
+make sure you are in the philoagents-api dir before running any code 
+
+
+if says that src module not found 
+do >   uv pip install -e.
+
+
+
+philoagents
+philoagents123 -> password 
+python -m pip install "pymongo[srv]"
+mongodb+srv://philoagents:philoagents123@cluster1.gjwbbon.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
